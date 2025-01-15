@@ -1,0 +1,25 @@
+in:Window g-value,in:Shading Percentage,in:Shading Transmittance,in:Window Orientation,in:WWR,in:Room Length,in:Room Width,out:Cooling (kWh/mq),out:Heating (kWh/mq),out:Lighting (kWh/mq),out:Max Operative Temperature (°C),out:UDI (% mean),img
+0.70,100%,0.31,North,40%,10,10,-999,-999,-999,0,-999,https://1drv.ms/i/c/d3f0ec7514f23315/EZjJhvL9VYJNtz2uqieuLhgBFk8VlfnSrnrj4cKN_7BK4g?e=oaTLem
+0.70,100%,0.31,North,40%,10,5,-999,-999,-999,0,-999,Window g-value3_Shading Percentage4_Shading Transmittance2_Window Orientation0_WWR0_Room Length2_Room Width0_Parallel.png
+0.70,100%,0.31,North,40%,5,10,-999,-999,-999,0,-999,Window g-value3_Shading Percentage4_Shading Transmittance2_Window Orientation0_WWR0_Room Length0_Room Width2_Parallel.png
+0.70,100%,0.31,North,40%,5,5,-999,-999,-999,0,-999,Window g-value3_Shading Percentage4_Shading Transmittance2_Window Orientation0_WWR0_Room Length0_Room Width0_Parallel.png
+0.70,100%,0.31,North,60%,10,10,-999,-999,-999,0,-999,Window g-value3_Shading Percentage4_Shading Transmittance2_Window Orientation0_WWR1_Room Length2_Room Width2_Parallel.png
+0.70,100%,0.31,North,60%,10,5,-999,-999,-999,0,-999,Window g-value3_Shading Percentage4_Shading Transmittance2_Window Orientation0_WWR1_Room Length2_Room Width0_Parallel.png
+0.70,100%,0.31,North,60%,5,10,-999,-999,-999,0,-999,Window g-value3_Shading Percentage4_Shading Transmittance2_Window Orientation0_WWR1_Room Length0_Room Width2_Parallel.png
+0.70,100%,0.31,North,60%,5,5,-999,-999,-999,0,-999,Window g-value3_Shading Percentage4_Shading Transmittance2_Window Orientation0_WWR1_Room Length0_Room Width0_Parallel.png
+0.70,100%,0.31,North,95%,10,10,-999,-999,-999,0,-999,Window g-value3_Shading Percentage4_Shading Transmittance2_Window Orientation0_WWR2_Room Length2_Room Width2_Parallel.png
+0.70,100%,0.31,North,95%,10,5,-999,-999,-999,0,-999,Window g-value3_Shading Percentage4_Shading Transmittance2_Window Orientation0_WWR2_Room Length2_Room Width0_Parallel.png
+0.70,100%,0.31,North,95%,5,10,-999,-999,-999,0,-999,Window g-value3_Shading Percentage4_Shading Transmittance2_Window Orientation0_WWR2_Room Length0_Room Width2_Parallel.png
+0.70,100%,0.31,North,95%,5,5,-999,-999,-999,0,-999,Window g-value3_Shading Percentage4_Shading Transmittance2_Window Orientation0_WWR2_Room Length0_Room Width0_Parallel.png
+0.70,100%,0.31,South,40%,10,10,-999,-999,-999,0,-999,Window g-value3_Shading Percentage4_Shading Transmittance2_Window Orientation3_WWR0_Room Length2_Room Width2_Parallel.png
+0.70,100%,0.31,South,40%,10,5,-999,-999,-999,0,-999,Window g-value3_Shading Percentage4_Shading Transmittance2_Window Orientation3_WWR0_Room Length2_Room Width0_Parallel.png
+0.70,100%,0.31,South,40%,5,10,-999,-999,-999,0,-999,Window g-value3_Shading Percentage4_Shading Transmittance2_Window Orientation3_WWR0_Room Length0_Room Width2_Parallel.png
+0.70,100%,0.31,South,40%,5,5,-999,-999,-999,0,-999,Window g-value3_Shading Percentage4_Shading Transmittance2_Window Orientation3_WWR0_Room Length0_Room Width0_Parallel.png
+0.70,100%,0.31,South,60%,10,10,-999,-999,-999,0,-999,Window g-value3_Shading Percentage4_Shading Transmittance2_Window Orientation3_WWR1_Room Length2_Room Width2_Parallel.png
+0.70,100%,0.31,South,60%,10,5,-999,-999,-999,0,-999,Window g-value3_Shading Percentage4_Shading Transmittance2_Window Orientation3_WWR1_Room Length2_Room Width0_Parallel.png
+0.70,100%,0.31,South,60%,5,10,-999,-999,-999,0,-999,Window g-value3_Shading Percentage4_Shading Transmittance2_Window Orientation3_WWR1_Room Length0_Room Width2_Parallel.png
+0.70,100%,0.31,South,60%,5,5,-999,-999,-999,0,-999,Window g-value3_Shading Percentage4_Shading Transmittance2_Window Orientation3_WWR1_Room Length0_Room Width0_Parallel.png
+0.70,100%,0.31,South,95%,10,10,-999,-999,-999,0,-999,Window g-value3_Shading Percentage4_Shading Transmittance2_Window Orientation3_WWR2_Room Length2_Room Width2_Parallel.png
+0.70,100%,0.31,South,95%,10,5,-999,-999,-999,0,-999,Window g-value3_Shading Percentage4_Shading Transmittance2_Window Orientation3_WWR2_Room Length2_Room Width0_Parallel.png
+0.70,100%,0.31,South,95%,5,10,-999,-999,-999,0,-999,Window g-value3_Shading Percentage4_Shading Transmittance2_Window Orientation3_WWR2_Room Length0_Room Width2_Parallel.png
+0.70,100%,0.31,South,95%,5,5,-999,-999,-999,0,-999,Window g-value3_Shading Percentage4_Shading Transmittance2_Window Orientation3_WWR2_Room Length0_Room Width0_Parallel.png
